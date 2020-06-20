@@ -1,0 +1,25 @@
+// Place all the styles related to the homes controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    }
+
+.row{
+   margin-left: -15px;
+   margin-right: -15px;
+   }
+
+a:visited {
+	color: #666;
+	}
+.col-xs-offset-1 {
+    margin-left: 8.33333333%;
+}
+.col-xs-10 {
+    width: 83.33333333%;
+    float: left;
+}
